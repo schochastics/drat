@@ -1,7 +1,7 @@
 Package: networkdata
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.2.0)
 Imports: igraph
 License: MIT + file LICENSE
-MD5sum: eee3053c8bbb1b5d3a4c735841679990
+MD5sum: 3a8c0882f1c66301277e1b63549cccaa
 NeedsCompilation: no
