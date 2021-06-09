@@ -1,7 +1,47 @@
 Package: networkdata
+Version: 0.1.0
+Depends: R (>= 3.2.0)
+Imports: igraph
+License: MIT + file LICENSE
+MD5sum: 07139933bd2d383dbe1673e64fe1e486
+NeedsCompilation: no
+
+Package: networkdata
+Version: 0.1.1
+Depends: R (>= 3.2.0)
+Imports: igraph
+License: MIT + file LICENSE
+MD5sum: eee3053c8bbb1b5d3a4c735841679990
+NeedsCompilation: no
+
+Package: networkdata
+Version: 0.1.2
+Depends: R (>= 3.2.0)
+Imports: igraph
+License: MIT + file LICENSE
+MD5sum: 3a8c0882f1c66301277e1b63549cccaa
+NeedsCompilation: no
+
+Package: networkdata
+Version: 0.1.3
+Depends: R (>= 3.2.0)
+Imports: igraph
+License: MIT + file LICENSE
+MD5sum: 96e4d4a83b7c0a35685a8236f91857bb
+NeedsCompilation: no
+
+Package: networkdata
 Version: 0.1.4
 Depends: R (>= 3.2.0)
 Imports: igraph
 License: MIT + file LICENSE
 MD5sum: 2ce58283e50a6def4e1787f9612ee868
+NeedsCompilation: no
+
+Package: networkdata
+Version: 0.1.5
+Depends: R (>= 3.2.0)
+Imports: igraph
+License: MIT + file LICENSE
+MD5sum: 4d441b4bfb81324399da31a1473b285b
 NeedsCompilation: no
