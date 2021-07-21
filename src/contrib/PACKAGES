@@ -45,3 +45,11 @@ Imports: igraph
 License: MIT + file LICENSE
 MD5sum: 4d441b4bfb81324399da31a1473b285b
 NeedsCompilation: no
+
+Package: networkdata
+Version: 0.1.6
+Depends: R (>= 3.2.0)
+Imports: igraph
+License: MIT + file LICENSE
+MD5sum: 6019ef5fc737492cc2434ca5eacc4494
+NeedsCompilation: no
